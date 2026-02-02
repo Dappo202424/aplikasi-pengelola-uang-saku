@@ -1,0 +1,25 @@
+{
+  "saldo": 111500.0,
+  "transactions": [
+    {
+      "type": "pemasukan",
+      "amount": 1000.0,
+      "time": "2026-02-02T03:12:21.101329"
+    },
+    {
+      "type": "pemasukan",
+      "amount": 500.0,
+      "time": "2026-02-02T03:12:21.105266"
+    },
+    {
+      "type": "pemasukan",
+      "amount": 30000.0,
+      "time": "2026-02-02T03:16:42.845212"
+    },
+    {
+      "type": "pengeluaran",
+      "amount": 40000.0,
+      "time": "2026-02-02T03:16:53.917489"
+    }
+  ]
+}
